@@ -171,6 +171,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Mobile app version
 - [ ] API endpoints for programmatic access
 
+## 🖼️ Screenshots
+
+### Main Input Form
+![Main Input Form](assets/image1.png)
+
+### Calculation Results
+![Calculation Results](assets/image2.png)
+
 ---
 
 ⭐ **Star this repository if you find it helpful!** 
