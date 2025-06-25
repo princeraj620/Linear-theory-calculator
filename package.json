@@ -1,0 +1,50 @@
+{
+  "name": "linear-theory-calculator",
+  "version": "1.0.0",
+  "description": "A modern, interactive web application for analyzing network flow systems using linear theory algorithms",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build step required for static HTML'",
+    "test": "echo 'No tests specified'",
+    "lint": "echo 'No linting configured'"
+  },
+  "keywords": [
+    "linear-theory",
+    "fluid-dynamics",
+    "network-analysis",
+    "calculator",
+    "web-app",
+    "javascript",
+    "html5",
+    "css3",
+    "engineering",
+    "mathematics"
+  ],
+  "author": {
+    "name": "Prince Raj",
+    "email": "princeraj620@gmail.com",
+    "url": "https://github.com/princeraj620"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/princeraj620/linear-theory-calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/princeraj620/linear-theory-calculator/issues"
+  },
+  "homepage": "https://princeraj620.github.io/linear-theory-calculator/",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+} 
